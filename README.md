@@ -30,6 +30,8 @@ PS. The building height is not validated currently. Thus we haven't updated the 
 
 3. In SampleScene, Find the component <MapController> atacched to gameobject "OSMmap", change its OSMfileName value. If you named your .osm file as "name.osm", you shoude enter "name.osm". 
 
+4. 
+
 
 # Study area:
 Main campus, Technical University of Munich.
