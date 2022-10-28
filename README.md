@@ -20,6 +20,8 @@ The general idea is we hope to navigate in AR environment based on OSM 3D data. 
 # Study area:
 Main campus, Technical University of Munich.
 
+![png](/OSM in Munich.png)
+
 # License: 
 [OpenStreetMap](https://www.openstreetmap.org/copyright/)
 - © OpenStreetMap contributors
