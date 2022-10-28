@@ -17,10 +17,10 @@ Open data includes
   - Building Height 2012 from Copernicus Land Monitoring Service (https://land.copernicus.eu/local/urban-atlas/building-height-2012)
   - Ordnance Survey MasterMap Building Height Attribute (https://www.ordnancesurvey.co.uk/business-government/products/mastermap-building).  
 
-Both of them are raster data. Our team also collects building height data from SAR data.  
-Paper name:  
-Large-scale building height retrieval from single SAR imagery based on bounding box regression networks (https://www.sciencedirect.com/science/article/pii/S0924271621003221)  
-CG-Net: Conditional GIS-Aware Network for Individual Building Segmentation in VHR SAR Images (https://ieeexplore.ieee.org/abstract/document/9321533)  
+Both of them are raster data.  
+Our team also collects building height data from SAR data. Paper name:  
+  - Large-scale building height retrieval from single SAR imagery based on bounding box regression networks (https://www.sciencedirect.com/science/article/pii/S0924271621003221)  
+  - CG-Net: Conditional GIS-Aware Network for Individual Building Segmentation in VHR SAR Images (https://ieeexplore.ieee.org/abstract/document/9321533)  
 PS. The building height is not validated currently. Thus we haven't updated the data to OSM.
 
 # How
