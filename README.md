@@ -8,7 +8,7 @@ The general idea is we hope to navigate in AR environment based on OSM 3D data. 
 1. Collect the height infomation of buildings and upload them into OSM. （Ongoing）
 2. Download the OSM data and create a 3D model in unity. (Fork and Developing)
 3. Developing the AR app in Microsoft HoloLens 2 with Mixed Reality Toolkit. (Demo pending)
-4. Connecting the live coordinate data in mobile phone with the HoloLens, based on the blue tooth. (Completed)
+4. Connecting the live coordinate data in mobile phone with the HoloLens, through the app gps2ip based on bluetooth. (Completed)
 5. Georeferencing the coordinate from the real world to unity. (Ongoing)
 6. Creating the navigated interaction in HoloLens. (Pending)
 
@@ -18,7 +18,7 @@ Open data includes
   - Ordnance Survey MasterMap Building Height Attribute (https://www.ordnancesurvey.co.uk/business-government/products/mastermap-building).  
 
 Both of them are raster data.  
-Our team also collects building height data from SAR data. Paper name:  
+My colleague also collects building height data from SAR data. Paper name:  
   - Large-scale building height retrieval from single SAR imagery based on bounding box regression networks (https://www.sciencedirect.com/science/article/pii/S0924271621003221)  
   - CG-Net: Conditional GIS-Aware Network for Individual Building Segmentation in VHR SAR Images (https://ieeexplore.ieee.org/abstract/document/9321533)  
 PS. The building height is not validated currently. Thus we haven't updated the data to OSM.
