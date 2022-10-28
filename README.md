@@ -1,14 +1,14 @@
 # what is this?
 This is a demo solution for the OSS4SDG - Sustainable Smart Cities, Challenge # 2 – Development of apps based on OSM data (https://ideas.unite.un.org/sdg11/Page/Challenge2)
 
-Acknowledged to SnakeSneakS source code (https://github.com/SnakeSneakS/OpenStreetMap-Unity) and Sloan Kelly with the Youtube tutorial GTA in Unity!? Use Real World Maps! (https://www.youtube.com/watch?v=780Ia5e8LHQ) and the source code (https://github.com/codehoose/real-world-map-data).
+Thanks to source code from SnakeSneakS (https://github.com/SnakeSneakS/OpenStreetMap-Unity). The Youtube tutorialSloan Kelly 'GTA in Unity!? Use Real World Maps!' also helps a lot (https://www.youtube.com/watch?v=780Ia5e8LHQ).
 
 # Idea
 The general idea is we hope to navigate in AR environment based on OSM 3D data. Step by step, we plan to
 1. Collect the height infomation of buildings and upload them into OSM. （Ongoing）
 2. Download the OSM data and create a 3D model in unity. (Fork and Developing)
 3. Developing the AR app in Microsoft HoloLens 2 with Mixed Reality Toolkit. (Demo pending)
-4. Connecting the live coordinate data in mobile phone with the HoloLens, through the app gps2ip based on bluetooth. (Completed)
+4. Connecting the live coordinate data in mobile phone with the HoloLens, through the app gps2ip based on bluetooth. (Completed: https://github.com/Leonival/OSM-in-live-AR/blob/9bba4966349b213043181cc53750bad4b8f7e04b/BLETest.cs)
 5. Georeferencing the coordinate from the real world to unity. (Ongoing)
 6. Creating the navigated interaction in HoloLens. (Pending)
 
