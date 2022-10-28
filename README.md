@@ -8,8 +8,9 @@ The general idea is we hope to navigate in AR environment based on OSM 3D data. 
 1. Collect the height infomation of buildings and upload them into OSM. （Ongoing）
 2. Download the OSM data and create a 3D model in unity. (Fork and Developing)
 3. Developing the AR app in Microsoft HoloLens 2 (Demo pending)
-4. Coonecting the live coordinate data in mobile phone with the HoloLens, based on the blue tooth. (Completed)
+4. Connecting the live coordinate data in mobile phone with the HoloLens, based on the blue tooth. (Completed)
 5. Georeferencing the coordinate from the real world to unity (Ongoing)
+6. Creating the navigated interaction in HoloLens. (Pending)
 
 # Data
 Open data includes
