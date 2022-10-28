@@ -32,8 +32,8 @@ PS. The building height is not validated currently. Thus we haven't updated the 
 
 # Study area:
 Main campus, Technical University of Munich.
-
-![png](https://github.com/Leonival/Mapping-OSM-in-live-AR-environment/blob/0ffd786200677f49d7f451300256f6fda7cf7895/OSM%20in%20Munich.png)
+![OSM](https://github.com/Leonival/Mapping-OSM-in-live-AR-environment/blob/286710b06e4cb9e8bf2aeba18fc55650860181a9/Assets/OSM%20of%20TUM.png)
+![unity](https://github.com/Leonival/Mapping-OSM-in-live-AR-environment/blob/0ffd786200677f49d7f451300256f6fda7cf7895/OSM%20in%20Munich.png)
 
 # License: 
 [OpenStreetMap](https://www.openstreetmap.org/copyright/)
